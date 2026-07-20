@@ -1,1 +1,2 @@
 this is the new file used for makign the changes 
+new changes are made for using the diff command 
